@@ -1,1 +1,2 @@
-# TeamTracking
+Welcome to Team Tracking!
+
