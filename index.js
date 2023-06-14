@@ -7,9 +7,10 @@ const employee_tracker = () => {
       type: 'list',
       name: 'prompt',
       message: 'What do you want to do?',
-      choices: ['View Departments', 'View Jobs', 'View Employees', 'Add a Department', 'Add a Job', 'Add an Employee', 'Log Out']
+      choices: ['View Employees', 'View Departments', 'View Jobs', 'Add an Employee', 'Add a Department', 'Add a Job', 'Log-Out']
     }
   ])
 };
 
 employee_tracker();
+
